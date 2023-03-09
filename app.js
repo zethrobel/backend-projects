@@ -57,7 +57,3 @@ app.post("/failure",function(req,res){
 app.listen(3000,function(){
     console.log("port 3000 is ready to take the stage.")
 })
-//API-key
-//f05e5d2f2c8fa2182722fce51ba41be2-us18
-//list id
-//ec8ea9c575
